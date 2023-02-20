@@ -93,6 +93,13 @@ public class Picnic {
 		
 		js.executeScript("window.scrollBy (0,3000)");
 		
+		driver.get("https://www.amazon.in/");
+		
+		Thread.sleep(3000);
+		driver.get("https://www.amazon.in/");
+		
+		Thread.sleep(3000);
+		
 		
 		
 		
