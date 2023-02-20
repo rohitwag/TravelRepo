@@ -98,24 +98,7 @@ public class Picnic {
 		Thread.sleep(3000);
 		driver.get("https://www.amazon.in/");
 		
-		Thread.sleep(3000);
 		
-		
-		
-		
-		
-	    
-	    
-		
-		
-		
-		
-		
-		
-		
-		
-		
-
 	}
 
 	
